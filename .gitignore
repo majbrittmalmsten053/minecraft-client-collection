@@ -1,0 +1,23 @@
+# Compilation
+build/
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.exp
+*.lib
+*.so
+
+# Visual Studio & CLion
+.vs/
+*.sln
+*.vcxproj*
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Temp
+logs/
+cache/
+Vortex_crash.dmp
